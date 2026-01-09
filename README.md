@@ -1,2 +1,3 @@
 # cs2100practice_1
-practice
+
+Day two practice using git for CS2100
